@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**GitHub Stats🎯**<br>
+
+<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
