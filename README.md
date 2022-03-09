@@ -1,16 +1,11 @@
 ### Hi there, I am Lakshmi 👋
 
-<!--
-**lk-learner/lk-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Software Cloud computing fundamentals
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python and Cloud computing fundamentals
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I like to travel
+
 
 **GitHub Stats🎯**<br>
 
