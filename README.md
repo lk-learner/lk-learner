@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning ... Python,Linux,Networking and Cloud computing fundamentals
+- 🌱 I’m currently learning ... Python,Linux,Networking and AWS Cloud computing fundamentals
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like to travel
 
