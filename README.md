@@ -8,7 +8,7 @@
 - 💪 Passionate on ... exploring and upskilling myself
 
 
-### Tech Stack ; ✔ &nbsp
+### Tech Stack  ✔ 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
