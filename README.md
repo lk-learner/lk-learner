@@ -1,6 +1,5 @@
 ### Hi there, I am Lakshmi 👋
 
-![GitHub](https://img.shields.io/github/license/lk-learner/lk-learner?label=Github&logo=github&style=social)
 
 - 🌱 I’m currently learning ... Python,Linux,Networking and AWS Cloud computing fundamentals
 - 👩‍ Pronouns ... She/her
