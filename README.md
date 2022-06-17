@@ -1,7 +1,7 @@
 ### Hi there, I am Lakshmi 👋
 
 
-- 🌱 I’m currently learning ... Python,Linux,Networking and AWS Cloud computing fundamentals
+- 🌱 I’m currently learning ... Python, Linux, Machine Learning, Networking and AWS Cloud computing fundamentals
 - 👩‍ Pronouns ... She/her
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
