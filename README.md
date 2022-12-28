@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonWebServices)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=AmazonWebServices)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure)&nbsp;
 
 **GitHub Stats🎯**<br>
 
