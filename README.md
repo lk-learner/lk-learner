@@ -23,8 +23,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonWebServices)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure)&nbsp;
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-
 **GitHub Stats🎯**<br>
 
 <img width="25%" src="https://profile-counter.glitch.me/{lk-learner}/count.svg" /> 
