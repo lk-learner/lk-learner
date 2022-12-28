@@ -37,5 +37,8 @@
 ## 👇👇 Check out my Medium blog 👇👇
 
 [Highly Available 3-Tier Architecture using AWS console](https://medium.com/@LakshmiKadali/highly-available-3-tier-architecture-using-aws-console-90c37500309)
+[Host your resume on a static webpage using S3 with CloudFront and Origin Access Identity](https://medium.com/@LakshmiKadali/host-your-resume-on-static-webpage-using-s3-with-cloudfront-and-origin-access-identity-f57a58e75ad8)
+[How do I use webhooks to publish Amazon SNS messages to Slack channel?](https://medium.com/@LakshmiKadali/how-do-i-use-webhooks-to-publish-amazon-sns-messages-to-slack-channel-74cdadd781bc)
+[VPC Peering using AWS console](https://medium.com/@LakshmiKadali/vpc-peering-using-aws-console-5132848b2fc1)
 
 ---
