@@ -1,7 +1,7 @@
 ### Hi there, I am Lakshmi 👋
 
 
-- 🌱 I’m currently learning ... Python, Linux, Machine Learning, Networking and AWS & Azure Cloud computing fundamentals
+- 🌱 I’m currently learning ... Python, Linux, SQL, Machine Learning, Networking and AWS & Azure Cloud computing fundamentals
 - 👩‍ Pronouns ... She/her
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
@@ -21,6 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonWebServices)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=AmazonWebServices)&nbsp;
 
 **GitHub Stats🎯**<br>
 
