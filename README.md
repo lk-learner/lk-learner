@@ -31,3 +31,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lk-learner&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lk-learner&theme=tokyonight" />
 </p>
+
+---
+
+## 👇👇 Check out my Medium blog 👇👇
+
+[Highly Available 3-Tier Architecture using AWS console](https://medium.com/@LakshmiKadali/highly-available-3-tier-architecture-using-aws-console-90c37500309)
+
+---
