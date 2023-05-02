@@ -5,7 +5,7 @@
 - 👩‍ Pronouns ... She/her
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
-- 👀 I’m looking to ... collaborate with Data experts and cloud experts to upskill my knowledge.
+
 
 
 ### Tech Stack  ✔&nbsp; 
