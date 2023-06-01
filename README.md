@@ -36,7 +36,8 @@
 
 ---
 
-## 👇👇 Check out my Medium blog 👇👇
+## 👇👇 Check out my Medium blogs 👇👇  
+[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blueviolet?logo=medium)](https://medium.com/@LakshmiKadali/)
 
 [Highly Available 3-Tier Architecture using AWS console](https://medium.com/@LakshmiKadali/highly-available-3-tier-architecture-using-aws-console-90c37500309)
 
