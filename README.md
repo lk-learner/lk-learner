@@ -6,7 +6,17 @@
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
 
+<img align="right" alt="Girl working on laptop with plants in background" width="300" 
+     src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-animation-gif-download-4445871.gif" />
 
+
+
+With growing proficiency in modern data tools like **Power BI, SQL, and Python**,  
+I focus on optimizing reports, automating workflows, and driving smarter business decisions.  
+
+I’m committed to continuous learning and delivering data-driven solutions that create real business impact.
+
+---
 
 ### Tech Stack  ✔&nbsp; 
 
@@ -26,14 +36,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AmazonWebServices)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure)&nbsp;
 
-**GitHub Stats🎯**<br>
+---
 
-<img width="25%" src="https://profile-counter.glitch.me/{lk-learner}/count.svg" /> 
-
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lk-learner&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lk-learner&theme=tokyonight" />
+### Profile Stats 🧮
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyothi-Kuppili999&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Jyothi-Kuppili999?style=social" alt="GitHub Followers"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyothi-Kuppili999" alt="Visitors"/>
 </p>
 
 ---
