@@ -41,8 +41,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 ### Profile Stats 🧮
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lk-learner"/>
-  <img src="https://img.shields.io/github/followers/Jyothi-Kuppili999?style=social" alt="GitHub Followers"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyothi-Kuppili999" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/lk-learner?style=social" alt="GitHub Followers"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lk-learners" alt="Visitors"/>
 </p>
 
 ---
