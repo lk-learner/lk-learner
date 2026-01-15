@@ -1,7 +1,7 @@
 ### Hi there, I am Lakshmi 👋
 
 
-- 🌱 I’m learning ... Python, Microsoft Power BI, SQL, Machine Learning, Microsoft Fabric, Databricks and AWS Cloud fundamentals
+- 🌱 I’m learning ... Python, Microsoft Power BI, SQL, Machine Learning, Microsoft Fabric, Databricks fundamentals and AWS Cloud fundamentals
 - 👩‍ Pronouns ... She/her
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
@@ -25,7 +25,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
+![DataBricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=Databricks)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
