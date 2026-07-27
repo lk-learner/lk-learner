@@ -1,7 +1,7 @@
 ### Hi there, I am Lakshmi 👋
 
 
-- 🌱 I’m learning ... Python, Microsoft Power BI, SQL, Machine Learning, Databricks fundamentals and AWS Cloud fundamentals
+- 🌱 I’m learning ... Python, Microsoft Power BI, SQL, Databricks fundamentals and AWS Cloud fundamentals
 - 👩‍ Pronouns ... She/her
 - ⚡ Fun fact ... Welcome to my coding playground.
 - 💪 Passionate on ... exploring and upskilling myself
